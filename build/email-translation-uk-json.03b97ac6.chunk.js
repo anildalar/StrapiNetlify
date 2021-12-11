@@ -1,0 +1,1 @@
+(self.webpackChunkmy_project=self.webpackChunkmy_project||[]).push([[6745],{14981:e=>{"use strict";e.exports={}}}]);
